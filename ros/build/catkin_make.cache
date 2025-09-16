@@ -1,0 +1,2 @@
+at_commond_node:imu_py:ros_uwb_laser:serial_processor:yahboomcar_bringup
+-DCATKIN_DEVEL_PREFIX=/home/pi/ceshi/ros/devel -DCMAKE_INSTALL_PREFIX=/home/pi/ceshi/ros/install -G Unix Makefiles

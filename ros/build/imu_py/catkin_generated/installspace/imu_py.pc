@@ -1,0 +1,8 @@
+prefix=/home/pi/ceshi/ros/install
+
+Name: imu_py
+Description: Description of imu_py
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
